@@ -1,4 +1,4 @@
-package com.brunovieira.sellersys.domain;
+package com.brunovieira.sellersys.domains;
 
 import java.io.Serializable;
 
